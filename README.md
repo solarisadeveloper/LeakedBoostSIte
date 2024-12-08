@@ -63,7 +63,7 @@ Follow these steps to set up the project:
 ---------------
 
 Here's the `package.json` file for your reference:
-```json
+```yaml
 {
   "name": "outsourcedshop",
   "version": "0.1.0",

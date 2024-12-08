@@ -103,7 +103,7 @@ Here's the `package.json` file for your reference:
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
   }
-}`
+}```
 
 * * * * *
 

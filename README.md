@@ -1,5 +1,10 @@
 🌟 LeakedBoostSite
 
+
+Credits -- @whatsupsophie & @jessthegamer6949
+
+discords - https://discord.gg/hdboostssss 
+
 Welcome to **LeakedBoostSite**! This repository contains the files for a Next.js-based website. Follow the instructions below to get started. 🚀
 
 ---

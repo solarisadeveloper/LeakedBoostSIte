@@ -1,6 +1,25 @@
 🌟 LeakedBoostSite
 
 
+LOOK BELOW PHOTOS FOR INSTRUCTIONS
+
+![image](https://github.com/user-attachments/assets/45f25e8d-d731-4569-a6ac-329b119bbf37)
+
+![image](https://github.com/user-attachments/assets/cebcc6b3-8634-433c-adbb-dac9e00a28e5)
+
+![image](https://github.com/user-attachments/assets/b0348932-45f3-4fda-9f20-da5cfe21630c)
+
+![image](https://github.com/user-attachments/assets/536770f3-6eb0-4c13-9ec5-97690e359d6f)
+
+![image](https://github.com/user-attachments/assets/7a818568-a8ab-4306-9b02-1bc1b7389bdc)
+
+![image](https://github.com/user-attachments/assets/0acacb02-b154-4cdf-ae5a-09751ee4894d)
+
+![image](https://github.com/user-attachments/assets/0f6ed4b1-6de3-44e5-a794-c4e2388c2ae1)
+
+![image](https://github.com/user-attachments/assets/1c628e26-9b72-44e2-91e0-b550e8ad85d7)
+
+
 Credits -- @whatsupsophie & @jessthegamer6949
 
 discords - https://discord.gg/hdboostssss 

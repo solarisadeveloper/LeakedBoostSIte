@@ -1,4 +1,4 @@
-`# 🌟 LeakedBoostSite
+🌟 LeakedBoostSite
 
 Welcome to **LeakedBoostSite**! This repository contains the files for a Next.js-based website. Follow the instructions below to get started. 🚀
 
@@ -103,7 +103,8 @@ Here's the `package.json` file for your reference:
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
   }
-}```
+}
+```
 
 * * * * *
 

@@ -25,12 +25,12 @@ const Aboutus = () => {
         <div className="lg:w-1/2 flex flex-col gap-8">
           <RevealAnimation screenReveal>
             <div className="font-semibold text-4xl text-white">
-              {`We're your top choice for Discord needs.`}
+              {`Nexus Slots is a premium Discord server offering customizable shop channels designed for streamlined management and accessibility`}
             </div>
           </RevealAnimation>
           <RevealAnimation screenReveal delay={0.2}>
             <div className="text-muted-foreground">
-              {`With over 24 months of experience, our server boosting service stands as the pinnacle of reliability, respect, and renown in the industry.`}
+              {`Nexus Slots combines high-quality features with an intuitive design to create the ultimate hub for shop-related activities on Discord.`}
             </div>
           </RevealAnimation>
           <div className="flex flex-col gap-3">
@@ -52,7 +52,7 @@ const Aboutus = () => {
               <div className="flex flex-row items-center gap-2">
                 <CheckIcon size={16} className="text-[#e43f81]" />
                 <div className="text-white font-medium">
-                  {`Most affordable pricing.`}
+                  {`Most Affordable Slot Prices`}
                 </div>
               </div>
             </RevealAnimation>
